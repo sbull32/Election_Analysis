@@ -20,7 +20,7 @@ The purpose of this election audit is to analyze a specific election's data to d
 5. The winning candidate in this election was **Diana DeGette** who recieved **272,892 votes** which was **73.8% of the total vote count.**
 
 I have included a link to the image of the election analysis output describing the data ablove
-![Election Analysis Terminal Output](Analysis/Election Analysis Terminal Output.png)
+![Election Analysis Terminal Output](c:/Users/seanb/OneDrive/Documents/Data Analytics Bootcamp/Module 3/Election Analysis/Analysis/Election Analysis Terminal Output.png)
 
 ## Election-Audit Summary
 
